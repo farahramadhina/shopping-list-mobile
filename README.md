@@ -1,6 +1,12 @@
 # shopping_list
-
 A new Flutter project.
+
+Link Markdown
+[![Build status](https://build.appcenter.ms/v0.1/apps/68d5a7a8-6777-4259-976d-9060d227163d/branches/main/badge)](https://appcenter.ms)
+
+Link Public
+https://install.appcenter.ms/orgs/pbp-farah/apps/shopping-list/distribution_groups/public
+
 
 ## Getting Started
 
